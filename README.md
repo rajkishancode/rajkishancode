@@ -64,13 +64,15 @@
 
 ## 📊 GitHub Stats
 
+<!-- 👇 Replace YOUR-VERCEL-DOMAIN.vercel.app below with your own deployed domain (from Vercel → Visit / Settings → Domains) -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajkishancode&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img width="49%" src="https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=rajkishancode&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats"/>
   <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=rajkishancode&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
+<!-- 👇 Replace YOUR-VERCEL-DOMAIN.vercel.app below with your own deployed domain (same one as above) -->
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkishancode&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+  <img width="60%" src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs?username=rajkishancode&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
 </p>
 
 <p align="center">
